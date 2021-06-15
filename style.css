@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-image: url("./smile.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Source Sans Pro;
+    font-size: 20px;
+}
+div {
+    display: flex;
+    justify-content: center;   
+}
+#jokes {
+    width: 400px;
+    min-height: 46px;
+    border-radius: 10px;
+    padding: 5px;
+    border: solid 2.5px #ffffff;
+    background-color: inherit;
+    color: #257047;
+    margin-right: 20px;
+}
+#button {
+    width: 140px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #2f8a58;
+    font-weight: 600;
+    color: #ffffff;
+  }
